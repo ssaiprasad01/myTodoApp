@@ -1,0 +1,15 @@
+Git Definition:- Git is a version control system used for tracking changes in computer files. It is generally used for source code management in software development. Git is used to tracking changes in the source code. 
+ 2.Github - GitHub is a code hosting platform for version control and collaboration. It lets you and 
+ other work together on projects from anywhere.
+
+ 3.Gitsquash - To "squash" in Git means to combine multiple commits into one.
+
+ 4. Git fetch vs Git pull - Git Fetch is the command that tells the local repository that there are 
+ changes available in the remote repository without bringing the changes into the local repository.
+ Git Pull on the other hand brings the copy of the remote directory changes into the local repository.
+
+ 5. git merge conflict - Git merge conflict is an event that takes place when Git is unable to 
+ automatically resolve differences in code between two commits. Git can merge the changes automatically only if the commits are on different lines or branches.
+
+ 6.Git checkout--the git checkout command lets you navigate between the branches created by git branch . Checking out a branch updates the files in the working directory to match the version stored in that
+ branch, and it tells Git to record all new commits on that branch.
